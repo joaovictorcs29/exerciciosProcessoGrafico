@@ -55,8 +55,8 @@ set(EXERCISES
     HelloTexture
     Modulo2/Ex1Parte1M2
     Modulo2/Ex1Parte2M2
-    Modulo2/vivencialLeoEugenio_NicolasDaniel_JoaoVictorCosta
-    Modulo2/Exercicio3
+    Modulo2/ExercicioMoodle2
+    Modulo2/ExercicioMoodle3
     Modulo3/M3JogoCores
     
 )
